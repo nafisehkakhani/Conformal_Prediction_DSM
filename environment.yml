@@ -1,0 +1,4 @@
+name: your-env-name
+channels:
+  - defaults
+prefix: C:\Users\nkakhani\anaconda3\envs\your-env-name
