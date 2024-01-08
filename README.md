@@ -14,8 +14,3 @@ Once you have prepared the inputs and outputs (soil organic carbon - SOC in g/kg
 ```bash
     conda install anaconda::statsmodels
     ```
-
-
-
-
-
