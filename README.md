@@ -1,6 +1,6 @@
 # Conformal_Prediction_DSM
 
-Implementation of conformal prediction as an uncertainty quantification method for soil organic carbon estimation. The code contains required functions for implementing the experiment outlined in the paper.
+Implementation of conformal prediction as an uncertainty quantification method for soil organic carbon estimation. 
 
 ## Usage
 
@@ -9,8 +9,9 @@ Implementation of conformal prediction as an uncertainty quantification method f
 
 Once you have prepared the inputs and outputs (soil organic carbon - SOC in g/kg), save them as a .csv file.
 
-3. The provided notebook contains functions to reproduce the experiments outlined in the paper. To run them, you need to install the Conformalized Quantile Regression (CQR) package, available at: [CQR GitHub Repository](https://github.com/yromano/cqr). Additionally, install the required packages of CQR and also install `statsmodels`.
+3. The provided notebook contains functions to reproduce the experiments outlined in the paper. To run them, you need to install the Conformalized Quantile Regression (CQR) package, available at: [CQR GitHub Repository](https://github.com/yromano/cqr).
+In addition to the required packages of CQR, also install `statsmodels`.
 
 ```bash
     conda install anaconda::statsmodels
-    ```
+```
