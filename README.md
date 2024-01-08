@@ -1,7 +1,9 @@
 # Conformal_Prediction_DSM
 
 Implementation of conformal prediction as an uncertainty quantification method for soil organic carbon estimation. 
-
+<!--
+![Conformal_Prediction_DSM](./readme_imgs/cp_github.png)
+-->
 ## Usage
 
 1. To access the LUCAS topsoil dataset (ground truth), visit: [LUCAS Topsoil Dataset](https://esdac.jrc.ec.europa.eu/content/topsoil-physical-properties-europe-based-lucas-topsoil-data)
