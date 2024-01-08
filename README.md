@@ -17,3 +17,6 @@ In addition to the required packages of CQR, also install `statsmodels`.
 ```bash
     conda install anaconda::statsmodels
 ```
+4. In each iteration, the results will be saved as separate .csv files, and then you can use them to calculate the uncertainty and accuracy metrics.
+
+This repository will be updated gradually. Meanwhile, do not hesitate to contact me via: nafiseh.kakhani@uni-tuebingen.de
