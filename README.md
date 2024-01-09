@@ -4,6 +4,8 @@ Implementation of conformal prediction as an uncertainty quantification method f
 
 ![Conformal_Prediction_DSM](./img/cp_github.png)
 
+Figure adapted from the paper "Uncertainty Quantification of Soil Organic Carbon Estimation from Remote Sensing Data with Conformal Prediction" by Nafiseh Kakhani, Setareh Alamdar, Ndiye Michael Kebonye, Meisam Amani, and Thomas Scholten. Submitted to Remote Sensing.
+
 ## Usage
 
 1. To access the LUCAS topsoil dataset (ground truth), visit: [LUCAS Topsoil Dataset](https://esdac.jrc.ec.europa.eu/content/topsoil-physical-properties-europe-based-lucas-topsoil-data)
