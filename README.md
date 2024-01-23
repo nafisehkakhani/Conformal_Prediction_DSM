@@ -4,7 +4,11 @@ Implementation of conformal prediction as an uncertainty quantification method f
 
 ![Conformal_Prediction_DSM](./img/cp_github.png)
 
-Please site: @Article{rs16030438,
+Please site: 
+
+<pre>
+```bib
+@Article{rs16030438,
 AUTHOR = {Kakhani, Nafiseh and Alamdar, Setareh and Kebonye, Ndiye Michael and Amani, Meisam and Scholten, Thomas},
 TITLE = {Uncertainty Quantification of Soil Organic Carbon Estimation from Remote Sensing Data with Conformal Prediction},
 JOURNAL = {Remote Sensing},
@@ -17,7 +21,8 @@ ISSN = {2072-4292},
 ABSTRACT = {Soil organic carbon (SOC) contents and stocks provide valuable insights into soil health, nutrient cycling, greenhouse gas emissions, and overall ecosystem productivity. Given this, remote sensing data coupled with advanced machine learning (ML) techniques have eased SOC level estimation while revealing its patterns across different ecosystems. However, despite these advances, the intricacies of training reliable and yet certain SOC models for specific end-users remain a great challenge. To address this, we need robust SOC uncertainty quantification techniques. Here, we introduce a methodology that leverages conformal prediction to address the uncertainty in estimating SOC contents while using remote sensing data. Conformal prediction generates statistically reliable uncertainty intervals for predictions made by ML models. Our analysis, performed on the LUCAS dataset in Europe and incorporating a suite of relevant environmental covariates, underscores the efficacy of integrating conformal prediction with another ML model, specifically random forest. In addition, we conducted a comparative assessment of our results against prevalent uncertainty quantification methods for SOC prediction, employing different evaluation metrics to assess both model uncertainty and accuracy. Our methodology showcases the utility of the generated prediction sets as informative indicators of uncertainty. These sets accurately identify samples that pose prediction challenges, providing valuable insights for end-users seeking reliable predictions in the complexities of SOC estimation.},
 DOI = {10.3390/rs16030438}
 }
-
+```
+</pre>
 
 ## Usage
 
